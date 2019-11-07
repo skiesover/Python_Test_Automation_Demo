@@ -1,5 +1,5 @@
 # Python_Test_Automation_Demo
-Test Automation project written on Python and using Page Object Model
+Test Automation project written on Python and using Page Object Model.
 
 Author: **Ildar Lutfullin**
 
@@ -18,6 +18,5 @@ To achieve Fluent pattern all page-related functions are not void - instead they
   ```
 
 Each test class contains test case description with steps and test script itself.
-  ```
 
 Thank you!
